@@ -1,0 +1,40 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Create responsive, adaptive landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmytro Osinnii",
+  "license": "ISC",
+  "dependencies": {
+    "hamburgers": "^1.1.3",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1",
+    "install": "^0.13.0",
+    "merge-stream": "^2.0.0",
+    "npm": "^6.10.2",
+    "readable-stream": "^3.4.0",
+    "gulp-uglify": "^3.0.2",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-plumber": "^1.2.1"
+  }
+}
